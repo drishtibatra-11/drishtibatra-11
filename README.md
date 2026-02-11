@@ -1,8 +1,8 @@
 # Hi, I'm Drishti 👋
-<h1 align="center">Hiiiii 👋🥰</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="240">
 </p>
+
 
 
 
