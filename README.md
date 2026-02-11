@@ -1,6 +1,9 @@
 # Hi, I'm Drishti 👋
 
-<img align="right" alt="coding" width="300" src="https://pin.it/1MF4rCySu">
+<p align="center">
+  <img src="https://pixabay.com/gifs/hello-welcome-text-writing-1261/" alt="Hello & Welcome GIF">
+</p>
+
 
 💻 Computer Science Student  
 🚀 Aspiring Full-Stack Developer  
